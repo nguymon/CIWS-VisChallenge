@@ -12,9 +12,9 @@
     Data visualizations developed for the 2020 Cyberinfrastructure for Intelligent Water Supply (CIWS) Data Visualization Challenge.
     <br />
     <br />
-    <a href="https://github.com/nguymon/CIWS-VisChallenge/blob/main/Guides/Visualization%20Guide.md">Visualization Guide</a>
+    <a href="https://github.com/nguymon/CIWS-VisChallenge/blob/main/Visualization%20Guide.md">Visualization Guide</a>
     ·
-    <a href=") - An overview of the fonts, colors, and other design elements contained in the visualiza">Design Guide</a>
+    <a href="https://github.com/nguymon/CIWS-VisChallenge/blob/main/Style%20Guide.md">Style Guide</a>
     ·
     <a href="https://github.com/othneildrew/Best-README-Template/issues">Jupyter Notebook</a>
   </p>
