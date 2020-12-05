@@ -16,7 +16,7 @@
     ·
     <a href="https://github.com/nguymon/CIWS-VisChallenge/blob/main/Style%20Guide.md">Style Guide</a>
     ·
-    <a href="https://github.com/nguymon/CIWS-VisChallenge/blob/main/Data%20Visualization%20Challenge.ipynb">Jupyter Notebook</a>
+    <a href="https://github.com/nguymon/CIWS-VisChallenge/blob/main/CIWS-VisChallenge.ipynb">Jupyter Notebook</a>
   </p>
 </p>
 
