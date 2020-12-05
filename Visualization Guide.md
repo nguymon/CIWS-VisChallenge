@@ -14,6 +14,7 @@ A brief summary of the visualizations developed in the Jupyter Notebook, their i
     <li><a href="#side-by-side-bar-plots">Side by Side Bar Plots</a></li>
     <li><a href="#infographic">Infographic</a></li>
     <li><a href="#total-use-table">Total Use Table</a></li>
+      <li><a href="#hourly-average">Hourly Average</a></li>
     <li><a href="#references">References</a></li>
   </ol>
 </details>
@@ -50,16 +51,28 @@ These plots are used to visualize the distribution of usage by category side by 
 
 <!-- INFOGRAPHIC -->
 ## Infographic
-This infographic helps to visualize water usage compared to household items that a typical homeowner uses on a regular basis.
+This infographic helps to visualize water usage compared to household items that a typical homeowner uses on a regular basis. Water use for each household item is estimated according to the U.S. Environmental Protection Agency.
 
 ![Infographic](Results/Infographic_Complete_07-21_to_08-04.png)
 
 <!-- TOTAL USE TABLE -->
-## Toal Use Table
+## Total Use Table
 This table is used to show quantitative usage by category for a specified period.
 
 ![Table](Results/Table_07-21_to_08-04.png)
 
+<!-- HOURLY AVERAGE -->
+## Hourly Average
+This plot visualizes the average use of the time period for each hour of the day.
+![Hourly1](Results/Hourly_Use_No_Irrigation_Unclassified_07-21_to_08-04.png)
+
+For many of the plots it is beneficial to plot first without irrigation data included as it is much higher than any other category.
+![Hourly2](Results/Hourly_Use_No_Unclassified_07-21_to_08-04.png)
+
 <!-- REFERENCES -->
 ## References
 [1] https://water.utah.gov/wp-content/uploads/2020/07/2015WaterDataV3.pdf
+
+[2] https://www.epa.gov/sites/production/files/2017-03/documents/ws-facthseet-indoor-water-use-in-the-us.pdf
+
+[3] https://www.epa.gov/watersense/showerheads

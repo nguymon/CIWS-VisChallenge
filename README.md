@@ -122,3 +122,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Nathan Guymon - nathan.guymon@aggiemail.usu.edu
 
 Project Link: [CIWS-VisChallenge](https://github.com/UCHIC/CIWS-VisChallenge)
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [README Template](https://github.com/othneildrew/Best-README-Template)
