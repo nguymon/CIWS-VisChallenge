@@ -62,12 +62,16 @@ For additional information about the data or project contact Jeff Horsburgh at j
 
 ### Built With
 
-The project was built primarily using.
-* [Jupyter Notebook](https://jupyter.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [Seaborn](https://seaborn.pydata.org/)
-* [Plotly](https://plotly.com/)
-* [Pillow](https://pillow.readthedocs.io/en/stable/)
+The project was built primarily using:
+* [**Python** 3.8.4](https://www.python.org/downloads/release/python-384/)
+* [**Jupyter Notebook** 1.0.0](https://jupyter.org/)
+* [**Pandas** 1.0.5](https://pandas.pydata.org/)
+* [**Matplotlib** 3.2.2](https://matplotlib.org/)
+* [**Seaborn** 0.10.1](https://seaborn.pydata.org/)
+* [**Plotly** 4.13.0](https://plotly.com/)
+* [**Pillow** 7.2.0](https://pillow.readthedocs.io/en/stable/)
+
+If using a different version of packages it may be necessary to update sections of the project.
 
 <!-- GETTING STARTED -->
 ## Getting Started
